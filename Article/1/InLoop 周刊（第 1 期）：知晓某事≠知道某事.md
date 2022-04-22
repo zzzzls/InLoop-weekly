@@ -1,10 +1,10 @@
 # InLoop 周刊（第 1 期）：知晓某事≠知道某事
 
-Tags: 周刊
-url: https://mp.weixin.qq.com/s/Tq8JFAjVqZtr0UVXEFUu5g
-创建时间: March 26, 2022 4:29 PM
-周刊: Yes
-归档: Yes
+Tags: 周刊  
+url: https://mp.weixin.qq.com/s/Tq8JFAjVqZtr0UVXEFUu5g  
+创建时间: March 26, 2022 4:29 PM  
+周刊: Yes  
+归档: Yes  
 
 在这里记录一周，我看到的值得分享的东西
 
@@ -28,13 +28,13 @@ url: https://mp.weixin.qq.com/s/Tq8JFAjVqZtr0UVXEFUu5g
    
     戴森球Online青春版🤣，支持存档导出，拥有武器系统，摸鱼upup
     
-    ![sshot-1.png](InLoop%20%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC%201%20%E6%9C%9F%EF%BC%89%EF%BC%9A%E7%9F%A5%E6%99%93%E6%9F%90%E4%BA%8B=%CC%B8%E7%9F%A5%E9%81%93%E6%9F%90%E4%BA%8B%20cdab21931e404496b30fabe3b984aab4/sshot-1.png)
+    ![sshot-1.png](image/sshot-1.png)
     
 2. [Numble](https://codepen.io/grum/full/rNGQZXB)
    
     数字版 Wordle，更加友好的提示
     
-    ![sshot-2.png](InLoop%20%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC%201%20%E6%9C%9F%EF%BC%89%EF%BC%9A%E7%9F%A5%E6%99%93%E6%9F%90%E4%BA%8B=%CC%B8%E7%9F%A5%E9%81%93%E6%9F%90%E4%BA%8B%20cdab21931e404496b30fabe3b984aab4/sshot-2.png)
+    ![sshot-2.png](image/sshot-2.png)
     
 
 ## 工具
@@ -48,14 +48,14 @@ url: https://mp.weixin.qq.com/s/Tq8JFAjVqZtr0UVXEFUu5g
     
     [谷歌搜索](https://deepnote.com/@zzzzls/Demo-M3ztGGCoTtisj5GPiuwKTQ)：
     
-    ![03-26_45407.jpg](InLoop%20%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC%201%20%E6%9C%9F%EF%BC%89%EF%BC%9A%E7%9F%A5%E6%99%93%E6%9F%90%E4%BA%8B=%CC%B8%E7%9F%A5%E9%81%93%E6%9F%90%E4%BA%8B%20cdab21931e404496b30fabe3b984aab4/03-26_45407.jpg)
+    ![03-26_45407.jpg](image/03-26_45407.jpg)
     
 
 ## Coding
 
 1. Go build 瘦身
    
-    ![sshot-1.png](InLoop%20%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC%201%20%E6%9C%9F%EF%BC%89%EF%BC%9A%E7%9F%A5%E6%99%93%E6%9F%90%E4%BA%8B=%CC%B8%E7%9F%A5%E9%81%93%E6%9F%90%E4%BA%8B%20cdab21931e404496b30fabe3b984aab4/sshot-1%201.png)
+    ![sshot-1.png](image/sshot-1%201.png)
     
     ```go
     // demo.go
@@ -203,4 +203,4 @@ url: https://mp.weixin.qq.com/s/Tq8JFAjVqZtr0UVXEFUu5g
 > [史上最变态的日历！每一天都要靠拼图拼出来？！](https://www.bilibili.com/video/BV1Eb4y177Hs)
 > 
 
-![微信图片_20220327152844.jpg](InLoop%20%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC%201%20%E6%9C%9F%EF%BC%89%EF%BC%9A%E7%9F%A5%E6%99%93%E6%9F%90%E4%BA%8B=%CC%B8%E7%9F%A5%E9%81%93%E6%9F%90%E4%BA%8B%20cdab21931e404496b30fabe3b984aab4/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220327152844.jpg)
+![微信图片_20220327152844.jpg](image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220327152844.jpg)
