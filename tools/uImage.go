@@ -36,7 +36,7 @@ func main() {
 	fmt.Println(url.PathEscape(ImagePath))
 	// 从文件首行读出文件名
 	firstLine, _ := bufio.NewReader(strings.NewReader(string(fileContentByte))).ReadString('\n')
-	NewMarkDownFile := strings.TrimLeft(firstLine, "# ")
+	NewMarkDownFile := strings.Split(firstLine, "：")[1]
 	NewMarkDownFile = strings.TrimSpace(NewMarkDownFile) + ".md"
 
 	fileContent := strings.ReplaceAll(string(fileContentByte), url.PathEscape(ImagePath), NewImagePath)
